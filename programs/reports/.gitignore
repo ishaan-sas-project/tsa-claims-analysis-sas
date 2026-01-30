@@ -1,1 +1,4 @@
-
+*.log
+*.sas7bdat
+*.sas7bdat~
+*.tmp
