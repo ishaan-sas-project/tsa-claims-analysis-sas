@@ -83,7 +83,7 @@ proc freq data=tsa.claims_cleaning;
 tables claim_site disposition claim_type date_issues / nocum nopercent;
 run;
 
-/* ANALYZING DATA */
+/* ANALYZING DATA & EXPORTING DATA */
 
 %let statename=Florida;
 
