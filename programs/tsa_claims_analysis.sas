@@ -1,7 +1,7 @@
 /**************************************************************************
  Program Name : tsa_claims_analysis.sas
  Project      : TSA Claims Analysis (2002–2017)
- Curated       : Ishaan
+ Curated by      : Ishaan
  Description  :
    End-to-end analysis of TSA claims data using Base SAS. The program
    imports raw data, performs data cleaning and validation, conducts
